@@ -38,3 +38,32 @@ Collaborative Code Editor is an online real-time code editing platform designed 
 - **User Interface:**
   - Built with ReactJS to provide an intuitive and responsive experience for users.
 - **CodeMirror Integration:** Utilizes CodeMirror for the code editor component, offering features such as line gutters, syntax highlighting, and autocompletion.
+
+## Installation
+To run the project locally, follow these steps:
+
+ **Backend Setup**
+ 
+    1. Clone the repository:
+     git clone https://github.com/Ganesh-maker-code/Real-Time-Collaborative-Code-Editor.git
+     cd Real-Time-Collaborative-Code-Editor
+    
+    2. Install dependencies:
+     - Ensure you have Java 17 (or above) and Maven installed on your machine.
+     - Build the project:
+    mvn clean install
+
+    3. Run the backend server:
+    mvn spring-boot:run
+    
+**Frontend Setup (React)**
+    1. Navigate to the frontend directory:
+         cd frontend
+      
+    2. Install dependencies:
+         npm install
+         
+    3. Start the frontend development server:
+         npm start
+         
+    4. Open your browser and go to http://localhost:3000 to access the collaborative code editor.
