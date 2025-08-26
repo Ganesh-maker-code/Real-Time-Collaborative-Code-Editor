@@ -42,7 +42,7 @@ Collaborative Code Editor is an online real-time code editing platform designed 
 ## Installation
 To run the project locally, follow these steps:
 
- **Backend Setup**
+  **Backend Setup**
  
     1. Clone the repository:
      git clone https://github.com/Ganesh-maker-code/Real-Time-Collaborative-Code-Editor.git
@@ -51,19 +51,20 @@ To run the project locally, follow these steps:
     2. Install dependencies:
      - Ensure you have Java 17 (or above) and Maven installed on your machine.
      - Build the project:
-    mvn clean install
+            mvn clean install
 
     3. Run the backend server:
-    mvn spring-boot:run
+            mvn spring-boot:run
     
-**Frontend Setup (React)**
+ **Frontend Setup (React)**
+
     1. Navigate to the frontend directory:
-         cd frontend
+            cd frontend
       
     2. Install dependencies:
-         npm install
+            npm install
          
     3. Start the frontend development server:
-         npm start
+            npm start
          
     4. Open your browser and go to http://localhost:3000 to access the collaborative code editor.
