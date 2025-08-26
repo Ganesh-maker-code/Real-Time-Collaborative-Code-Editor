@@ -20,6 +20,7 @@ Collaborative Code Editor is an online real-time code editing platform designed 
 - **CodeMirror:** ReactJS code editor component with features like line gutters, syntax highlighting, and autocompletion.
 
 ## System Design:
+<img width="1042" height="441" alt="Screenshot 2025-08-26 171917" src="https://github.com/user-attachments/assets/dbb07f9c-da4e-4d00-b415-7fc5569cc809" />
 
 1. **Client-Server Architecture:** Utilizes a versatile architecture for independent information transfer and easy data management on the server.
 2. **SpringBoot Server:** Manages document creation, retrieval, and WebSocket initialization. Handles client-server interactions for document updates.
