@@ -1,4 +1,4 @@
-# Collaborative Code Editor
+# Real Time Collaborative Code Editor (Full Stack)
 
 ## Introduction:
 
